@@ -9,6 +9,7 @@ Questo è un progetto per il corso di "Visualizzazione Scientifica" nel quale ve
   * [Dettagli dei goal](www.kaggle.com/datasets/jahaidulislam/fifa-world-cup-all-goals-1930-2022-dataset)
   * [Risultati delle partite](www.kaggle.com/datasets/evangower/fifa-world-cup)
   * [Dati geografici paesi](www.kaggle.com/datasets/juanumusic/countries-iso-codes)
+  * [Vincitori del Golden Boot](https://en.m.wikipedia.org/wiki/FIFA_World_Cup_awards)
 
 # Presentazione
 Presentazione creata con Slides, con ausilio del tool disponibile su [Venngage](https://venngage.com/tools/color-blind-simulator#simulator) per la scelta di colori colorblindess friendly.
