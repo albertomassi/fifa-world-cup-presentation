@@ -4,6 +4,10 @@ Questo è un progetto per il corso di "Visualizzazione Scientifica" nel quale ve
 - Dati generali su nazioni: nazioni ospitanti, vittorie per nazione.
 - Dati generali su giocatori: numero di goal, partecipazioni, etc..
 - Focus sull'Italia: goals, piazzamenti, marcatori etc..
+
+NOTA:
+A causa del rendering statico di GitHub dei file jupyter, il file Nazioni.ipynb non caricherà i grafici a causa dell'uso di librerie dinamiche. Per visualizzare tale file renderizzato correttamente è possibile seguire questo [link](https://nbviewer.org/github/albertomassi/fifa-world-cup-presentation/blob/main/Notebooks/Nazioni.ipynb) che fa uso di jupyter nbviewer.
+
 # Dataset utilizzati 
   * [Piazzamenti delle squadre](https://www.kaggle.com/datasets/abecklas/fifa-world-cup?select=WorldCups.csv)
   * [Dettagli dei goal](https://www.kaggle.com/datasets/jahaidulislam/fifa-world-cup-all-goals-1930-2022-dataset)
